@@ -1,0 +1,17 @@
+# Credentials
+common/config/google-ads.yaml
+
+# Data & Reports
+keyword_unit_price/archive/
+keyword_unit_price/reports/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
