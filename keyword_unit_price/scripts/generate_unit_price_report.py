@@ -16,10 +16,26 @@ os.environ["grpc_proxy"] = "http://127.0.0.1:7890"
 os.environ["GOOGLE_ADS_USE_REST"] = "true"
 
 METABASE_URL = "https://metabase.apifox.cn/"
-METABASE_USERNAME = "bob@apifox.com"
-METABASE_PASSWORD = "08103245981Zgh"
+METABASE_USERNAME = os.environ.get("METABASE_USERNAME", "bob@apifox.com")
+METABASE_PASSWORD = os.environ.get("METABASE_PASSWORD", "08103245981Zgh")
 GOOGLE_ADS_YAML = os.path.join(os.path.dirname(__file__), "../../common/config/google-ads.yaml")
-CUSTOMER_ID = "9496728294"
+CUSTOMER_ID = os.environ.get("GOOGLE_ADS_CUSTOMER_ID", "9496728294")
+
+def load_ads_client():
+    if os.path.exists(GOOGLE_ADS_YAML):
+        return GoogleAdsClient.load_from_storage(GOOGLE_ADS_YAML)
+    elif os.environ.get("GOOGLE_ADS_DEVELOPER_TOKEN"):
+        config = {
+            "developer_token": os.environ.get("GOOGLE_ADS_DEVELOPER_TOKEN"),
+            "client_id": os.environ.get("GOOGLE_ADS_CLIENT_ID"),
+            "client_secret": os.environ.get("GOOGLE_ADS_CLIENT_SECRET"),
+            "refresh_token": os.environ.get("GOOGLE_ADS_REFRESH_TOKEN"),
+            "login_customer_id": os.environ.get("GOOGLE_ADS_LOGIN_CUSTOMER_ID", "9496728294"),
+            "use_proto_plus": True
+        }
+        return GoogleAdsClient.load_from_dict(config)
+    else:
+        raise RuntimeError("Neither google-ads.yaml nor environment variables were found.")
 
 def get_metabase_data():
     print(">>> Logging into Metabase...")
@@ -94,7 +110,7 @@ def get_metabase_data():
 
 def get_google_ads_data():
     print(">>> Fetching Google Ads cost data...")
-    client = GoogleAdsClient.load_from_storage(GOOGLE_ADS_YAML)
+    client = load_ads_client()
     ga_service = client.get_service("GoogleAdsService")
     
     query = """
