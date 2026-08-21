@@ -1,0 +1,29 @@
+====== 官网子页面拆解搬家列表 ======
+
+【粘贴进 Testing-DSA-Global】
+https://apidog.com/api-testing-tools/
+https://apidog.com/mcp-testing-tools/
+/self-hosted-runner
+
+【粘贴进 Doc-DSA-Global】
+https://apidog.com/api-documentation-tools/
+
+【粘贴进 Mock-DSA-Global】
+https://apidog.com/api-mocking-tools/
+
+【粘贴进 API-DSA-Glaobl】
+https://apidog.com/api-design-tools/
+https://apidog.com/api-clients/
+https://apidog.com/solutions/api-collaboration/
+https://apidog.com/solutions/unified-api-management/
+https://apidog.com/solutions/api-first-development/
+https://apidog.com/solutions/ai-llm-api-development/
+https://apidog.com/solutions/multi-protocol-api-development/
+/solutions/
+/enterprise
+/on-premises
+/pricing
+/download
+/mcp-
+/spec-first-mode
+https://apidog.com/

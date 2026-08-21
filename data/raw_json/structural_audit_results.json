@@ -1,0 +1,914 @@
+[
+  {
+    "campaign": "Google-Sa-CP-JP",
+    "name": "Apidog-JP",
+    "impressions": 317,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Testing-Global",
+    "name": "Testing-Global",
+    "impressions": 31717,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Mock-Global",
+    "name": "Mock-Global",
+    "impressions": 8305,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Function-Global",
+    "name": "API Development-Global",
+    "impressions": 567,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Doc-Global",
+    "name": "Doc-CP-Global",
+    "impressions": 80,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman Download-Global",
+    "impressions": 16,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-CP-ID",
+    "name": "Doc-ID",
+    "impressions": 172,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-Global",
+    "name": "CP-Global",
+    "impressions": 18978,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-ESP",
+    "name": "Testing-ESP",
+    "impressions": 1,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman-Global",
+    "impressions": 1644,
+    "ad_count": 0
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman Online-Global",
+    "impressions": 1710,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman Testing-Global",
+    "impressions": 1596,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-CP-ESP",
+    "name": "Postman-ESP",
+    "impressions": 2,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Doc-Global",
+    "name": "Doc-Global",
+    "impressions": 10316,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-PT",
+    "name": "Postman-PT",
+    "impressions": 53,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman Alternative-Global",
+    "impressions": 16832,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-KR",
+    "name": "Testing-KR",
+    "impressions": 250,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Function-Global",
+    "name": "API Tool-Global",
+    "impressions": 3145,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-ESP",
+    "name": "Apidog-ESP",
+    "impressions": 48,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-VN",
+    "name": "Doc-VN",
+    "impressions": 140,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-KR",
+    "name": "CP-KR",
+    "impressions": 36,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-CP-VN",
+    "name": "Postman-VN",
+    "impressions": 1,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Testing-Global",
+    "name": "Testing-CP-Global",
+    "impressions": 96,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-CP-ID",
+    "name": "CP-ID",
+    "impressions": 106,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-PT",
+    "name": "CP-PT",
+    "impressions": 34,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-ESP",
+    "name": "API Tool-ESP",
+    "impressions": 2087,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-ID",
+    "name": "Postman-ID",
+    "impressions": 372,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Debug-Global",
+    "name": "Debug-Global",
+    "impressions": 1745,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-KR",
+    "name": "Postman-KR",
+    "impressions": 230,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-PT",
+    "name": "Doc-PT",
+    "impressions": 282,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Design-Global",
+    "name": "Design-Global",
+    "impressions": 1545,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-ID",
+    "name": "design-ID",
+    "impressions": 57,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-PT",
+    "name": "design-PT",
+    "impressions": 301,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Doc-Global",
+    "name": "api-document-Global",
+    "impressions": 391,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-CP-KR",
+    "name": "Doc-KR",
+    "impressions": 46,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-ESP",
+    "name": "Doc-ESP",
+    "impressions": 1156,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Stoplight-Global",
+    "name": "Stoplight-Features--Global",
+    "impressions": 311,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Stoplight-Global",
+    "name": "Stoplight--Global",
+    "impressions": 7541,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Insomnia-Global",
+    "name": "Insomnia Download- Global",
+    "impressions": 554,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Readme-Global",
+    "name": "Readme-Global",
+    "impressions": 1066,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Insomnia-Global",
+    "name": "Insomnia api-Global",
+    "impressions": 244,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-CP-KR",
+    "name": "stoplight-KR",
+    "impressions": 0,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-VN",
+    "name": "CP-VN",
+    "impressions": 7,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-ID",
+    "name": "Swagger-ID",
+    "impressions": 1,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-CP-VN",
+    "name": "stoplight-VN",
+    "impressions": 1,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-CP-ESP",
+    "name": "Stoplight-ESP",
+    "impressions": 6,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-ID",
+    "name": "Test-ID",
+    "impressions": 254,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman on-prem - Global",
+    "impressions": 327,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Insomnia-Global",
+    "name": "insomnia alternative",
+    "impressions": 670,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Hoppscotch-Global",
+    "name": "Hoppscotch--Global",
+    "impressions": 11946,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Hoppscotch-Global",
+    "name": "Hoppscotch-Team-Workflow-Global",
+    "impressions": 8,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Hoppscotch-Global",
+    "name": "Hoppscotch-Protocols-Global",
+    "impressions": 1200,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Hoppscotch-Global",
+    "name": "Hoppscotch-alternative-Global",
+    "impressions": 15,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Hoppscotch-Global",
+    "name": "Hoppscotch-Features--Global",
+    "impressions": 528,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman Migration-Global",
+    "impressions": 4,
+    "ad_count": 0
+  },
+  {
+    "campaign": "Google-Sa-CP-TR",
+    "name": "Postman-ESP",
+    "impressions": 88,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-TR",
+    "name": "Apidog-ESP",
+    "impressions": 0,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-PT",
+    "name": "Swagger-PT",
+    "impressions": 158,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-CP-ESP",
+    "name": "Hoppscotch-ESP",
+    "impressions": 0,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-DSA",
+    "name": "Postman-DSA",
+    "impressions": 21117,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Swagger-Global",
+    "name": "Swagger Docs-Global",
+    "impressions": 326,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Stoplight-Global",
+    "name": "Stoplight Alternative--Global",
+    "impressions": 2075,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Function-Global",
+    "name": "API Client",
+    "impressions": 4902,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Function-Global",
+    "name": "API Code-Global",
+    "impressions": 501,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Function-Global",
+    "name": "API Naming Assistant",
+    "impressions": 0,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-CP-ESP",
+    "name": "RapidAPI-ESP",
+    "impressions": 622,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman Pricing-Global",
+    "impressions": 33,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Swagger-Global",
+    "name": "Swagger--Global",
+    "impressions": 4679,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Function-Global",
+    "name": "API lifecycle management",
+    "impressions": 771,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-DSA",
+    "name": "API-DSA",
+    "impressions": 11793,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-UT-KOL-Arabic",
+    "name": "UT-API Tool-Arabic",
+    "impressions": 0,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-UT-KOL-Portuguese",
+    "name": "UT-API Tool-Portuguese",
+    "impressions": 0,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Swagger-Global",
+    "name": "Swagger alternative-Global",
+    "impressions": 2689,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman Enterprise-Global",
+    "impressions": 12,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-CP-TW",
+    "name": "CP-TW",
+    "impressions": 2,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-CP-TW",
+    "name": "Postman-TW",
+    "impressions": 59,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Annual Planning & New Trends-26",
+    "name": "Annual Best Tools-26",
+    "impressions": 30,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Annual Planning & New Trends-26",
+    "name": "Future Trends-26",
+    "impressions": 2543,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Annual Planning & New Trends-26",
+    "name": "Automation & Strategy -26",
+    "impressions": 299,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-CP-ID",
+    "name": "Stoplight-ID",
+    "impressions": 0,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-CP-FR",
+    "name": "Apidog-ESP",
+    "impressions": 14,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-FR",
+    "name": "Postman-ESP",
+    "impressions": 99,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-CP-FR",
+    "name": "API Tool-ESP",
+    "impressions": 700,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Scalar-Global",
+    "name": "Scalar-Global",
+    "impressions": 11501,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-UT-KOL-English",
+    "name": "UT-API Tool-English",
+    "impressions": 0,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Function-Global",
+    "name": "Ai Test Case-Global",
+    "impressions": 5057,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Mintlify-Global",
+    "name": "Mintlify--Global",
+    "impressions": 13749,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Jmeter-Global",
+    "name": "API-Performance-Ease-Global",
+    "impressions": 7177,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-RapidAPI-Global",
+    "name": "RapidAPI--Global",
+    "impressions": 2149,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Insomnia-Global",
+    "name": "Insomnia-Features--Global",
+    "impressions": 4942,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Testing-Global",
+    "name": "Automated api testing-Global",
+    "impressions": 1825,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Function-Global",
+    "name": "OpenAPI Linter",
+    "impressions": 749,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Function-Global",
+    "name": "AI JSON Schema Generator",
+    "impressions": 4104,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-API Editor-Global",
+    "name": "No-Code & Builder-Global",
+    "impressions": 1052,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-API Editor-Global",
+    "name": "Online & Team--Global",
+    "impressions": 8453,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-API Editor-Global",
+    "name": "General Visual Editor--Global",
+    "impressions": 1373,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Function-Global",
+    "name": "API Collaboration",
+    "impressions": 985,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Postman-Listicle-Global",
+    "name": "Top_10_Postman_Alternatives",
+    "impressions": 243,
+    "ad_count": 0
+  },
+  {
+    "campaign": "Google-Sa-Enterprise-Global",
+    "name": "Enterprise ROI & Migration",
+    "impressions": 615,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman Offline-Global",
+    "impressions": 621,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+    "name": "Advanced Debugging",
+    "impressions": 744,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Enterprise-Global",
+    "name": "Security, SSO & RBAC",
+    "impressions": 0,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Fern-Global",
+    "name": "Fern-Global",
+    "impressions": 1362,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Jmeter-Global",
+    "name": "Jmeter---Global",
+    "impressions": 7478,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-The \"Great Migration\"-26",
+    "name": "Functional Pain Points-26",
+    "impressions": 48,
+    "ad_count": 0
+  },
+  {
+    "campaign": "Google-Sa-The \"Great Migration\"-26",
+    "name": "Price Sensitive-26",
+    "impressions": 205,
+    "ad_count": 0
+  },
+  {
+    "campaign": "Google-Sa-The \"Great Migration\"-26",
+    "name": "Migration Action-26",
+    "impressions": 0,
+    "ad_count": 0
+  },
+  {
+    "campaign": "Google-Sa-The \"Great Migration\"-26",
+    "name": "Direct Alternatives-26",
+    "impressions": 103,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Bruno-Global",
+    "name": "Bruno--Global",
+    "impressions": 1440,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Design-Global",
+    "name": "API Design-First-Global",
+    "impressions": 883,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman-Performance-Pain-Global",
+    "impressions": 1792,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-CP-PT",
+    "name": "rapidapi-PT",
+    "impressions": 125,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Testsigma-Global",
+    "name": "Testsigma--Global",
+    "impressions": 96,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Postman-Migration-Global",
+    "name": "Scratchpad_Offline_Alternative",
+    "impressions": 4,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Postman-Migration-Global",
+    "name": "High_Performance_API_Client",
+    "impressions": 5,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Postman-Migration-Global",
+    "name": "Modern_API_Tech_gRPC_MCP",
+    "impressions": 11,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Openapi-Global",
+    "name": "OpenAPI Editor-Global",
+    "impressions": 2095,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Openapi-Global",
+    "name": "OpenAPI-Visual-Editor--Global",
+    "impressions": 536,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Openapi-Global",
+    "name": "Openapi--Global",
+    "impressions": 5850,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Openapi-Global",
+    "name": "OpenAPI-Team-Editor-Global",
+    "impressions": 40,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Solutions-API-First-Global",
+    "name": "Versioning & Governance",
+    "impressions": 17,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Redocly-Global",
+    "name": "Redocly Alternatives- Global",
+    "impressions": 484,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Redocly-Global",
+    "name": "Redocly Documentation-Global",
+    "impressions": 0,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Redocly-Global",
+    "name": "Redocly for Engineering-Global",
+    "impressions": 5,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Solutions-Unified-API-Global",
+    "name": "Unified Platform",
+    "impressions": 5885,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Postman-Migration-Global",
+    "name": "Postman_1_User_Limit_Combat",
+    "impressions": 9,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Postman-Migration-Global",
+    "name": "Postman_9_Solo_AI_Limit",
+    "impressions": 1040,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-CP-US",
+    "name": "Apidog-US",
+    "impressions": 371,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-DSA",
+    "name": "Postman-alternative-DSA",
+    "impressions": 645,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman-Alt-Value-Global",
+    "impressions": 554,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Postman-Migration-Global",
+    "name": "Postman_Price_Hike_Interception",
+    "impressions": 0,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-DSA",
+    "name": "Solutions-DSA",
+    "impressions": 1015,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+    "name": "AI Infrastructure (MCP)",
+    "impressions": 10574,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Solutions-API-First-Global",
+    "name": "JSON Schema Tooling",
+    "impressions": 7,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Solutions-Unified-API-Global",
+    "name": "Multi-Format Import",
+    "impressions": 1415,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Solutions-API-First-Global",
+    "name": "Smart Mock Servers",
+    "impressions": 5268,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-DSA",
+    "name": "Competitor-Comparison-DSA",
+    "impressions": 1257,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Apidog-vs-Postman-Global",
+    "name": "Apidog-vs-Postman-Main-Global",
+    "impressions": 2455,
+    "ad_count": 0
+  },
+  {
+    "campaign": "Google-Sa-Jmeter-Global",
+    "name": "JMeter-Replacement-Global",
+    "impressions": 4485,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+    "name": "MCP & AI Agents",
+    "impressions": 10,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+    "name": "SSE & LLM Debugging",
+    "impressions": 1197,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Bump.sh-Global",
+    "name": "Bump.sh--Global",
+    "impressions": 2478,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Enterprise-Global",
+    "name": "Enterprise API Management",
+    "impressions": 650,
+    "ad_count": 3
+  },
+  {
+    "campaign": "Google-Sa-Postman-Migration-Global",
+    "name": "Postman_Data_Migration_Export",
+    "impressions": 58,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Enterprise-Global",
+    "name": "On-Premises & Data Sovereignty",
+    "impressions": 47,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+    "name": "Webhook Testing",
+    "impressions": 755,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+    "name": "Advanced Mocking",
+    "impressions": 445,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-SwaggerHub-Global",
+    "name": "SwaggerHub_Substitute",
+    "impressions": 12,
+    "ad_count": 2
+  },
+  {
+    "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+    "name": "Unified Platform",
+    "impressions": 0,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Postman-Migration-Global",
+    "name": "Postman_Unlimited_Testing_Run",
+    "impressions": 3631,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Postman-Global",
+    "name": "Postman-vs-Apidog-Global",
+    "impressions": 616,
+    "ad_count": 1
+  },
+  {
+    "campaign": "Google-Sa-Solutions-API-First-Global",
+    "name": "Design-First Workflow",
+    "impressions": 1941,
+    "ad_count": 2
+  }
+]

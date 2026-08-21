@@ -5,10 +5,15 @@ import datetime
 import requests
 from google.ads.googleads.client import GoogleAdsClient
 from google.ads.googleads.errors import GoogleAdsException
+import urllib3
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # 1. Configuration & Proxy
 os.environ["http_proxy"] = "http://127.0.0.1:7890"
 os.environ["https_proxy"] = "http://127.0.0.1:7890"
+os.environ["grpc_proxy"] = "http://127.0.0.1:7890"
+os.environ["GOOGLE_ADS_USE_REST"] = "true"
 
 METABASE_URL = "https://metabase.apifox.cn/"
 METABASE_USERNAME = "bob@apifox.com"
@@ -21,14 +26,13 @@ def get_metabase_data():
     session_res = requests.post(f"{METABASE_URL}api/session", json={
         "username": METABASE_USERNAME, 
         "password": METABASE_PASSWORD
-    })
+    }, verify=False)
     session_id = session_res.json().get("id")
     if not session_id:
         print(f"FAILED to login to Metabase: {session_res.text}")
         return {}
 
     headers = {"X-Metabase-Session": session_id}
-    # The SQL provided by user
     sql = """
     SELECT
       `user_trackings`.`utm_campaign` AS `utm_campaign`,
@@ -41,28 +45,25 @@ def get_metabase_data():
       AND (
         `user_trackings`.`utm_source` = 'google_search'
         OR `user_trackings`.`utm_source` = 'google_dsa'
+        OR `user_trackings`.`utm_source` = 'google_pmax'
       )
     GROUP BY
       `user_trackings`.`utm_campaign`
     """
     
     print(">>> Fetching data from Metabase...")
-    # Find the database ID.
-    db_res = requests.get(f"{METABASE_URL}api/database", headers=headers)
+    db_res = requests.get(f"{METABASE_URL}api/database", headers=headers, verify=False)
     try:
         db_data = db_res.json()
     except Exception as e:
         print(f"FAILED to parse Metabase database response as JSON: {e}")
         return {}
 
-    # Metabase might return a list or a dict with 'data'
     databases = db_data.get('data') if isinstance(db_data, dict) else db_data
-    
     if not databases or not isinstance(databases, list):
-        print(f"FAILED: Metabase database list is empty or unexpected format. Response: {db_data}")
+        print(f"FAILED: Metabase database list is empty. Response: {db_data}")
         return {}
     
-    # Try to find 'Apidog RDS' or pick the first one.
     db_id = None
     for db in databases:
         if db.get('name') == 'Apidog RDS':
@@ -72,7 +73,6 @@ def get_metabase_data():
     
     if db_id is None:
         db_id = databases[0]['id']
-        print(f">>> 'Apidog RDS' not found. Using first available: {databases[0].get('name')} (ID: {db_id})")
     
     query_payload = {
         "database": db_id,
@@ -81,7 +81,7 @@ def get_metabase_data():
         "parameters": []
     }
     
-    res = requests.post(f"{METABASE_URL}api/dataset", json=query_payload, headers=headers)
+    res = requests.post(f"{METABASE_URL}api/dataset", json=query_payload, headers=headers, verify=False)
     data = res.json()
     
     results = {}
@@ -196,6 +196,10 @@ def get_postman_keywords(client):
     return keywords
 
 def main():
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except AttributeError:
+        pass
     yesterday = (datetime.date.today() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
     print(f"=== Generating Integrated Report for {yesterday} ===")
     
@@ -205,7 +209,6 @@ def main():
     client = GoogleAdsClient.load_from_storage(GOOGLE_ADS_YAML)
     id_to_name, id_to_cost, name_to_id = get_google_ads_data()
     
-    # NEW: Fetch Keyword Data
     top_keywords = get_top_keywords(client)
     postman_keywords = get_postman_keywords(client)
     
@@ -213,7 +216,6 @@ def main():
     total_cost = 0
     total_regs = 0
     
-    # Process Google Ads campaigns first to get the cost base
     for campaign_id, cost in id_to_cost.items():
         if cost > 0:
             total_cost += cost
@@ -224,7 +226,6 @@ def main():
                 "Registrations": 0
             }
 
-    # Process Metabase Data
     for identifier, count in metabase_counts.items():
         campaign_id = identifier if identifier in id_to_name else name_to_id.get(identifier)
         if campaign_id:
@@ -244,12 +245,9 @@ def main():
         cost = item["Cost"]
         item["Unit Price"] = cost / count if count > 0 else (999999 if cost > 0 else 0)
 
-    # Sort by Unit Price descending
     report_data.sort(key=lambda x: x['Unit Price'], reverse=True)
-    
     avg_unit_price = total_cost / total_regs if total_regs > 0 else 0
 
-    # Build Markdown Report String
     md = f"""# 📊 Google Ads 综合分析报告 (Integrated Report)
 > **报告日期**: `{yesterday}` | **生成时间**: `{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}`
 
@@ -289,7 +287,6 @@ def main():
 
         md += f"| {i} | `{item['ID']}` | {item['Name']} | {cost_str} | {reg_str} | **{up_str}** | {status} |\n"
 
-    # NEW SECTION: Keyword Insights
     md += "\n---\n\n## 🔍 关键词洞察 (Keyword Insights)\n"
     
     md += "\n### 🥇 TOP 20 高频词 (近 7 天)\n"
@@ -306,28 +303,23 @@ def main():
 
     md += "\n---\n*报告由自动化脚本生成。如有疑问请检查 Google Ads 后台与 Metabase `Apidog RDS` 库。*"
 
-    # Save to file with UTF-8 encoding
     reports_dir = os.path.join(os.path.dirname(__file__), "../reports")
     archive_dir = os.path.join(os.path.dirname(__file__), "../archive")
     
-    # Ensure directories exist
     os.makedirs(reports_dir, exist_ok=True)
     os.makedirs(archive_dir, exist_ok=True)
     
     output_path = os.path.join(reports_dir, "final_registration_report.md")
     archive_path = os.path.join(archive_dir, f"report_{yesterday}.md")
 
-    # 1. Update Latest Report
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(md)
     
-    # 2. Archive Specific Date Report
     with open(archive_path, "w", encoding="utf-8") as f:
         f.write(md)
     
     print(f"\n✅ 报告已成功生成并保存至: {output_path}")
     print(f"📦 历史存档已保存至: {archive_path}")
-    # print(md[:500] + "...") # Preview in console
 
 if __name__ == "__main__":
     main()

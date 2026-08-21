@@ -1,0 +1,272 @@
+[
+  {
+    "campaign_name": "Google-Sa-Doc-Global",
+    "ad_group_name": "Doc-CP-Global",
+    "ad_group_id": 173191442832,
+    "cost": 1.197424,
+    "conversions": 1.0,
+    "actual_cpa": 1.197424,
+    "clicks": 3
+  },
+  {
+    "campaign_name": "Google-Sa-Doc-Global",
+    "ad_group_name": "Doc-Global",
+    "ad_group_id": 175496158511,
+    "cost": 371.391614,
+    "conversions": 203.91421,
+    "actual_cpa": 1.8213130610171797,
+    "clicks": 758
+  },
+  {
+    "campaign_name": "Google-Sa-Doc-Global",
+    "ad_group_name": "api-document-Global",
+    "ad_group_id": 181323367626,
+    "cost": 250.99933,
+    "conversions": 121.276776,
+    "actual_cpa": 2.0696405221062273,
+    "clicks": 575
+  },
+  {
+    "campaign_name": "Google-Sa-Mock-Global",
+    "ad_group_name": "Mock-Global",
+    "ad_group_id": 172619817293,
+    "cost": 489.493723,
+    "conversions": 331.454529,
+    "actual_cpa": 1.4768050521946556,
+    "clicks": 839
+  },
+  {
+    "campaign_name": "Google-Sa-Stoplight-Global",
+    "ad_group_name": "Stoplight-Features--Global",
+    "ad_group_id": 182282293125,
+    "cost": 23.227346,
+    "conversions": 18.914386,
+    "actual_cpa": 1.2280253770859917,
+    "clicks": 45
+  },
+  {
+    "campaign_name": "Google-Sa-Stoplight-Global",
+    "ad_group_name": "Stoplight--Global",
+    "ad_group_id": 182282293325,
+    "cost": 484.039685,
+    "conversions": 260.519908,
+    "actual_cpa": 1.8579758019874628,
+    "clicks": 713
+  },
+  {
+    "campaign_name": "Google-Sa-Stoplight-Global",
+    "ad_group_name": "Stoplight Alternative--Global",
+    "ad_group_id": 186737044076,
+    "cost": 246.229162,
+    "conversions": 122.646712,
+    "actual_cpa": 2.0076295400401767,
+    "clicks": 414
+  },
+  {
+    "campaign_name": "Google-Sa-Swagger-Global",
+    "ad_group_name": "Swagger Docs-Global",
+    "ad_group_id": 185897112658,
+    "cost": 14.5948,
+    "conversions": 7.541335,
+    "actual_cpa": 1.9353072101955422,
+    "clicks": 48
+  },
+  {
+    "campaign_name": "Google-Sa-Swagger-Global",
+    "ad_group_name": "Swagger--Global",
+    "ad_group_id": 187299572067,
+    "cost": 136.630717,
+    "conversions": 80.167096,
+    "actual_cpa": 1.7043241406673881,
+    "clicks": 264
+  },
+  {
+    "campaign_name": "Google-Sa-Swagger-Global",
+    "ad_group_name": "Swagger alternative-Global",
+    "ad_group_id": 188453904441,
+    "cost": 289.397301,
+    "conversions": 143.605699,
+    "actual_cpa": 2.015221561645684,
+    "clicks": 473
+  },
+  {
+    "campaign_name": "Google-Sa-Readme-Global",
+    "ad_group_name": "Readme-Global",
+    "ad_group_id": 182486224461,
+    "cost": 963.808041,
+    "conversions": 634.093023,
+    "actual_cpa": 1.5199789400616066,
+    "clicks": 1441
+  },
+  {
+    "campaign_name": "Google-Sa-Mintlify-Global",
+    "ad_group_name": "Mintlify--Global",
+    "ad_group_id": 189919208295,
+    "cost": 1980.701188,
+    "conversions": 1310.913454,
+    "actual_cpa": 1.5109320771377177,
+    "clicks": 3451
+  },
+  {
+    "campaign_name": "Google-Sa-Bruno-Global",
+    "ad_group_name": "Bruno--Global",
+    "ad_group_id": 192748403929,
+    "cost": 669.245413,
+    "conversions": 340.781258,
+    "actual_cpa": 1.96385627815248,
+    "clicks": 907
+  },
+  {
+    "campaign_name": "Google-Sa-Bruno-Global",
+    "ad_group_name": "Bruno-Migration",
+    "ad_group_id": 196513209260,
+    "cost": 111.768496,
+    "conversions": 103.0,
+    "actual_cpa": 1.0851310291262135,
+    "clicks": 454
+  },
+  {
+    "campaign_name": "Google-Sa-API Editor-Global",
+    "ad_group_name": "No-Code & Builder-Global",
+    "ad_group_id": 190760245856,
+    "cost": 21.296127,
+    "conversions": 15.0,
+    "actual_cpa": 1.4197418,
+    "clicks": 51
+  },
+  {
+    "campaign_name": "Google-Sa-API Editor-Global",
+    "ad_group_name": "Online & Team--Global",
+    "ad_group_id": 190760245896,
+    "cost": 344.724217,
+    "conversions": 286.855189,
+    "actual_cpa": 1.2017360334381122,
+    "clicks": 637
+  },
+  {
+    "campaign_name": "Google-Sa-API Editor-Global",
+    "ad_group_name": "General Visual Editor--Global",
+    "ad_group_id": 190760246056,
+    "cost": 28.400229,
+    "conversions": 17.5,
+    "actual_cpa": 1.6228702285714285,
+    "clicks": 74
+  },
+  {
+    "campaign_name": "Google-Sa-API Editor-Global",
+    "ad_group_name": "API-Code-Generation",
+    "ad_group_id": 196044288665,
+    "cost": 477.517968,
+    "conversions": 420.222101,
+    "actual_cpa": 1.136346629231669,
+    "clicks": 857
+  },
+  {
+    "campaign_name": "Google-Sa-Enterprise-Global",
+    "ad_group_name": "Enterprise ROI & Migration",
+    "ad_group_id": 191913460021,
+    "cost": 133.868328,
+    "conversions": 59.038028,
+    "actual_cpa": 2.267493216406212,
+    "clicks": 140
+  },
+  {
+    "campaign_name": "Google-Sa-Enterprise-Global",
+    "ad_group_name": "Security, SSO & RBAC",
+    "ad_group_id": 192213041462,
+    "cost": 0,
+    "conversions": 0,
+    "actual_cpa": 0,
+    "clicks": 0
+  },
+  {
+    "campaign_name": "Google-Sa-Enterprise-Global",
+    "ad_group_name": "Enterprise API Management",
+    "ad_group_id": 198057556034,
+    "cost": 15.422829,
+    "conversions": 10.941684,
+    "actual_cpa": 1.4095480183854696,
+    "clicks": 29
+  },
+  {
+    "campaign_name": "Google-Sa-Enterprise-Global",
+    "ad_group_name": "On-Premises & Data Sovereignty",
+    "ad_group_id": 198544198921,
+    "cost": 0,
+    "conversions": 0,
+    "actual_cpa": 0,
+    "clicks": 0
+  },
+  {
+    "campaign_name": "Google-Sa-Enterprise-Killer-Global",
+    "ad_group_name": "MCP-Testing-Comparison",
+    "ad_group_id": 195988742779,
+    "cost": 0,
+    "conversions": 0,
+    "actual_cpa": 0,
+    "clicks": 0
+  },
+  {
+    "campaign_name": "Google-Sa-Enterprise-Killer-Global",
+    "ad_group_name": "Katalon-Target",
+    "ad_group_id": 197308837162,
+    "cost": 0,
+    "conversions": 0,
+    "actual_cpa": 0,
+    "clicks": 0
+  },
+  {
+    "campaign_name": "Google-Sa-Enterprise-Killer-Global",
+    "ad_group_name": "ReadyAPI-Target",
+    "ad_group_id": 200912519692,
+    "cost": 0,
+    "conversions": 0,
+    "actual_cpa": 0,
+    "clicks": 0
+  },
+  {
+    "campaign_name": "Google-Sa-Enterprise-Killer-Global",
+    "ad_group_name": "API-Testing-Comparison",
+    "ad_group_id": 200916753012,
+    "cost": 259.007191,
+    "conversions": 129.202133,
+    "actual_cpa": 2.0046665251261757,
+    "clicks": 379
+  },
+  {
+    "campaign_name": "Google-Sa-SpecFirst-Global",
+    "ad_group_name": "Git-Native-API",
+    "ad_group_id": 196611085359,
+    "cost": 0,
+    "conversions": 0,
+    "actual_cpa": 0,
+    "clicks": 0
+  },
+  {
+    "campaign_name": "Google-Sa-SpecFirst-Global",
+    "ad_group_name": "Spec-First-Methodology",
+    "ad_group_id": 196611085399,
+    "cost": 0,
+    "conversions": 0,
+    "actual_cpa": 0,
+    "clicks": 0
+  },
+  {
+    "campaign_name": "Google-Sa-SpecFirst-Global",
+    "ad_group_name": "Stoplight-Alternative",
+    "ad_group_id": 196611085439,
+    "cost": 178.212446,
+    "conversions": 89.22159,
+    "actual_cpa": 1.9974139218993967,
+    "clicks": 212
+  },
+  {
+    "campaign_name": "Google-Sa-SpecFirst-Global",
+    "ad_group_name": "API-Spec-Tools",
+    "ad_group_id": 196611085599,
+    "cost": 297.661015,
+    "conversions": 151.833417,
+    "actual_cpa": 1.9604446826089676,
+    "clicks": 553
+  }
+]

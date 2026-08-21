@@ -1,0 +1,3873 @@
+{
+  "campaigns": [
+    {
+      "id": 21950794503,
+      "name": "Google-Sa-CP-Global",
+      "cost": 2594.441725,
+      "conv": 6190.752167,
+      "cpa": 0.41908344172292245,
+      "budget": 168.0,
+      "ctr": 0.41916956475919487
+    },
+    {
+      "id": 21965514943,
+      "name": "Google-Sa-CP-JP",
+      "cost": 51.149955,
+      "conv": 43.356601,
+      "cpa": 1.1797501146365232,
+      "budget": 10.0,
+      "ctr": 0.17981072555205047
+    },
+    {
+      "id": 21982653330,
+      "name": "Google-Sa-Postman-Global",
+      "cost": 1784.315031,
+      "conv": 1270.929348,
+      "cpa": 1.40394510033771,
+      "budget": 138.0,
+      "ctr": 0.0904220211981209
+    },
+    {
+      "id": 22061425619,
+      "name": "Google-Sa-Doc-Global",
+      "cost": 453.9374,
+      "conv": 294.558658,
+      "cpa": 1.541076412698757,
+      "budget": 25.0,
+      "ctr": 0.10725873736905535
+    },
+    {
+      "id": 22067541248,
+      "name": "Google-Sa-Mock-Global",
+      "cost": 38.331247,
+      "conv": 36.980549,
+      "cpa": 1.0365245524072666,
+      "budget": 40.0,
+      "ctr": 0.015171583383503913
+    },
+    {
+      "id": 22067987413,
+      "name": "Google-Sa-Testing-Global",
+      "cost": 596.727204,
+      "conv": 813.980074,
+      "cpa": 0.733098048785897,
+      "budget": 58.0,
+      "ctr": 0.04566264343896784
+    },
+    {
+      "id": 22132696993,
+      "name": "Google-Sa-Design-Global",
+      "cost": 94.019089,
+      "conv": 79.333333,
+      "cpa": 1.1851145722063636,
+      "budget": 25.0,
+      "ctr": 0.08896210873146623
+    },
+    {
+      "id": 22142363517,
+      "name": "Google-Sa-Debug-Global",
+      "cost": 56.923424,
+      "conv": 66.269917,
+      "cpa": 0.8589632608110855,
+      "budget": 10.0,
+      "ctr": 0.0670487106017192
+    },
+    {
+      "id": 22146873045,
+      "name": "Google-Sa-Function-Global",
+      "cost": 800.867703,
+      "conv": 768.140053,
+      "cpa": 1.0426063578798956,
+      "budget": 58.5,
+      "ctr": 0.08527019873923296
+    },
+    {
+      "id": 22261650381,
+      "name": "Google-Sa-CP-PT",
+      "cost": 36.437172,
+      "conv": 19.62748,
+      "cpa": 1.8564365878859639,
+      "budget": 15.0,
+      "ctr": 0.06190975865687303
+    },
+    {
+      "id": 22286394432,
+      "name": "Google-Sa-CP-ESP",
+      "cost": 165.886713,
+      "conv": 110.214792,
+      "cpa": 1.505122043872296,
+      "budget": 35.2,
+      "ctr": 0.05966343702192759
+    },
+    {
+      "id": 22309414047,
+      "name": "Google-Sa-CP-KR",
+      "cost": 26.330089,
+      "conv": 16.829571,
+      "cpa": 1.564513379455721,
+      "budget": 20.0,
+      "ctr": 0.05871886120996441
+    },
+    {
+      "id": 22374204671,
+      "name": "Google-Sa-CP-VN",
+      "cost": 41.262024,
+      "conv": 19.0,
+      "cpa": 2.17168547368421,
+      "budget": 12.0,
+      "ctr": 0.11717495987158909
+    },
+    {
+      "id": 22451766179,
+      "name": "Google-Sa-CP-ID",
+      "cost": 51.430724,
+      "conv": 55.934099,
+      "cpa": 0.9194878422909788,
+      "budget": 30.0,
+      "ctr": 0.0841995841995842
+    },
+    {
+      "id": 22806818611,
+      "name": "Google-Sa-Insomnia-Global",
+      "cost": 539.109063,
+      "conv": 376.272681,
+      "cpa": 1.4327616386266429,
+      "budget": 45.0,
+      "ctr": 0.15725429017160686
+    },
+    {
+      "id": 22892634645,
+      "name": "Google-Sa-Stoplight-Global",
+      "cost": 372.278023,
+      "conv": 284.020609,
+      "cpa": 1.3107429925974141,
+      "budget": 20.0,
+      "ctr": 0.09096403747355697
+    },
+    {
+      "id": 22923613652,
+      "name": "Google-Sa-Swagger-Global",
+      "cost": 214.459629,
+      "conv": 149.088652,
+      "cpa": 1.4384705081376683,
+      "budget": 15.0,
+      "ctr": 0.0687548739277359
+    },
+    {
+      "id": 22936440663,
+      "name": "Google-Sa-RapidAPI-Global",
+      "cost": 35.976373,
+      "conv": 41.680453,
+      "cpa": 0.8631473607064684,
+      "budget": 20.0,
+      "ctr": 0.06747324336900884
+    },
+    {
+      "id": 22967853243,
+      "name": "Google-Sa-Openapi-Global",
+      "cost": 284.38302,
+      "conv": 250.246428,
+      "cpa": 1.1364119051481525,
+      "budget": 20.0,
+      "ctr": 0.08203262527872315
+    },
+    {
+      "id": 22976792571,
+      "name": "Google-Sa-Hoppscotch-Global",
+      "cost": 1040.241918,
+      "conv": 932.86973,
+      "cpa": 1.1150988016301053,
+      "budget": 85.0,
+      "ctr": 0.1535372709352413
+    },
+    {
+      "id": 23027715066,
+      "name": "Google-Sa-CP-FR",
+      "cost": 27.59995,
+      "conv": 23.988255,
+      "cpa": 1.1505609724425558,
+      "budget": 15.2,
+      "ctr": 0.05043050430504305
+    },
+    {
+      "id": 23030065589,
+      "name": "Google-Sa-Readme-Global",
+      "cost": 15.717644,
+      "conv": 8.0,
+      "cpa": 1.9647055,
+      "budget": 40.0,
+      "ctr": 0.05722326454033771
+    },
+    {
+      "id": 23047433007,
+      "name": "Google-Sa-CP-TR",
+      "cost": 2.456764,
+      "conv": 2.0,
+      "cpa": 1.228382,
+      "budget": 20.2,
+      "ctr": 0.045454545454545456
+    },
+    {
+      "id": 23049168614,
+      "name": "Google-Sa-DSA",
+      "cost": 983.125476,
+      "conv": 551.377538,
+      "cpa": 1.783035049933427,
+      "budget": 58.0,
+      "ctr": 0.08485220643648644
+    },
+    {
+      "id": 23120363895,
+      "name": "Google-Sa-Jmeter-Global",
+      "cost": 673.134386,
+      "conv": 572.8539,
+      "cpa": 1.1750542084116038,
+      "budget": 56.0,
+      "ctr": 0.09414838035527691
+    },
+    {
+      "id": 23264160392,
+      "name": "Google-Sa-CP-TW",
+      "cost": 7.569118,
+      "conv": 3.0,
+      "cpa": 2.523039333333333,
+      "budget": 15.0,
+      "ctr": 0.09836065573770492
+    },
+    {
+      "id": 23278208055,
+      "name": "Google-UT-KOL-Portuguese",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0,
+      "budget": 20.0,
+      "ctr": 0.0
+    },
+    {
+      "id": 23278367004,
+      "name": "Google-UT-KOL-English",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0,
+      "budget": 15.0,
+      "ctr": 0.0
+    },
+    {
+      "id": 23287575511,
+      "name": "Google-UT-KOL-Arabic",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0,
+      "budget": 15.0,
+      "ctr": 0.0
+    },
+    {
+      "id": 23320166856,
+      "name": "Google-Sa-Mintlify-Global",
+      "cost": 681.583742,
+      "conv": 457.434112,
+      "cpa": 1.4900151171935336,
+      "budget": 57.0,
+      "ctr": 0.1288821005164012
+    },
+    {
+      "id": 23329106566,
+      "name": "Google-Sa-Bump.sh-Global",
+      "cost": 149.060064,
+      "conv": 64.439787,
+      "cpa": 2.313168167362192,
+      "budget": 12.0,
+      "ctr": 0.06416464891041163
+    },
+    {
+      "id": 23347684482,
+      "name": "Google-Sa-Bruno-Global",
+      "cost": 41.082237,
+      "conv": 18.013089,
+      "cpa": 2.280688059665946,
+      "budget": 20.0,
+      "ctr": 0.05277777777777778
+    },
+    {
+      "id": 23372306148,
+      "name": "Google-Sa-Testsigma-Global",
+      "cost": 3.389034,
+      "conv": 1.002822,
+      "cpa": 3.379497059298659,
+      "budget": 25.0,
+      "ctr": 0.03125
+    },
+    {
+      "id": 23376992548,
+      "name": "Google-Sa-API Editor-Global",
+      "cost": 127.847164,
+      "conv": 114.693359,
+      "cpa": 1.1146867186965899,
+      "budget": 25.0,
+      "ctr": 0.026935098363669793
+    },
+    {
+      "id": 23405430858,
+      "name": "Google-Sa-Fern-Global",
+      "cost": 45.347309,
+      "conv": 38.5,
+      "cpa": 1.177852181818182,
+      "budget": 15.0,
+      "ctr": 0.06020558002936858
+    },
+    {
+      "id": 23405649492,
+      "name": "Google-Sa-Scalar-Global",
+      "cost": 380.060722,
+      "conv": 293.194479,
+      "cpa": 1.2962751662182561,
+      "budget": 25.0,
+      "ctr": 0.07825406486392487
+    },
+    {
+      "id": 23425576736,
+      "name": "Google-Sa-CP-US",
+      "cost": 46.356207,
+      "conv": 15.563672,
+      "cpa": 2.9784877887429135,
+      "budget": 16.0,
+      "ctr": 0.10512129380053908
+    },
+    {
+      "id": 23435786807,
+      "name": "Google-Sa-The \"Great Migration\"-26",
+      "cost": 12.989675,
+      "conv": 11.997178,
+      "cpa": 1.0827275380927082,
+      "budget": 45.0,
+      "ctr": 0.09831460674157304
+    },
+    {
+      "id": 23440301503,
+      "name": "Google-Sa-Annual Planning & New Trends-26",
+      "cost": 97.44263,
+      "conv": 87.505118,
+      "cpa": 1.1135649231396956,
+      "budget": 35.0,
+      "ctr": 0.09157381615598886
+    },
+    {
+      "id": 23527834533,
+      "name": "Google-Sa-Postman-Migration-Global",
+      "cost": 538.675817,
+      "conv": 349.778465,
+      "cpa": 1.5400485475856842,
+      "budget": 38.0,
+      "ctr": 0.09775513453271772
+    },
+    {
+      "id": 23534302261,
+      "name": "Google-Sa-Redocly-Global",
+      "cost": 21.592245,
+      "conv": 12.660743,
+      "cpa": 1.7054484875018787,
+      "budget": 20.0,
+      "ctr": 0.14314928425357873
+    },
+    {
+      "id": 23645509902,
+      "name": "Google-Sa-Apidog-vs-Postman-Global",
+      "cost": 172.252207,
+      "conv": 97.995403,
+      "cpa": 1.757758034833532,
+      "budget": 20.0,
+      "ctr": 0.10753564154786151
+    },
+    {
+      "id": 23665013448,
+      "name": "Google-Sa-SwaggerHub-Global",
+      "cost": 1.599419,
+      "conv": 1.454818,
+      "cpa": 1.0993945634436748,
+      "budget": 20.0,
+      "ctr": 0.16666666666666666
+    },
+    {
+      "id": 23671094584,
+      "name": "Google-Sa-Postman-Listicle-Global",
+      "cost": 13.940559,
+      "conv": 4.0,
+      "cpa": 3.48513975,
+      "budget": 20.0,
+      "ctr": 0.07818930041152264
+    },
+    {
+      "id": 23691369759,
+      "name": "Google-Sa-Solutions-Unified-API-Global",
+      "cost": 220.892188,
+      "conv": 125.881746,
+      "cpa": 1.7547594867328897,
+      "budget": 15.0,
+      "ctr": 0.06178082191780822
+    },
+    {
+      "id": 23696756393,
+      "name": "Google-Sa-Solutions-AI-LLM-Global",
+      "cost": 292.042769,
+      "conv": 204.301888,
+      "cpa": 1.4294668143252793,
+      "budget": 20.0,
+      "ctr": 0.07325354384177914
+    },
+    {
+      "id": 23701399909,
+      "name": "Google-Sa-Solutions-API-First-Global",
+      "cost": 283.576163,
+      "conv": 217.711629,
+      "cpa": 1.3025310788520168,
+      "budget": 20.0,
+      "ctr": 0.09069542375224665
+    },
+    {
+      "id": 23712917923,
+      "name": "Google-Sa-Solutions-Multi-Protocol-Global",
+      "cost": 59.363344,
+      "conv": 25.641123,
+      "cpa": 2.3151616253313083,
+      "budget": 20.0,
+      "ctr": 0.06584362139917696
+    },
+    {
+      "id": 23716128367,
+      "name": "Google-Sa-Enterprise-Global",
+      "cost": 103.644766,
+      "conv": 27.816356,
+      "cpa": 3.7260367964804595,
+      "budget": 20.0,
+      "ctr": 0.0701219512195122
+    }
+  ],
+  "ad_groups": [
+    {
+      "campaign": "Google-Sa-CP-JP",
+      "name": "Apidog-JP",
+      "cost": 51.149955,
+      "conv": 43.356601,
+      "cpa": 1.1797501146365232
+    },
+    {
+      "campaign": "Google-Sa-Testing-Global",
+      "name": "Testing-Global",
+      "cost": 582.974001,
+      "conv": 800.980074,
+      "cpa": 0.7278258472632118
+    },
+    {
+      "campaign": "Google-Sa-Mock-Global",
+      "name": "Mock-Global",
+      "cost": 38.331247,
+      "conv": 36.980549,
+      "cpa": 1.0365245524072666
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "name": "API Development-Global",
+      "cost": 13.881226,
+      "conv": 29.0,
+      "cpa": 0.47866296551724136
+    },
+    {
+      "campaign": "Google-Sa-Doc-Global",
+      "name": "Doc-CP-Global",
+      "cost": 1.18,
+      "conv": 2.0,
+      "cpa": 0.59
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman Download-Global",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "name": "Doc-ID",
+      "cost": 5.173952,
+      "conv": 2.0,
+      "cpa": 2.586976
+    },
+    {
+      "campaign": "Google-Sa-CP-Global",
+      "name": "CP-Global",
+      "cost": 2594.441725,
+      "conv": 6190.752167,
+      "cpa": 0.41908344172292245
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "name": "Testing-ESP",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman-Global",
+      "cost": 94.024777,
+      "conv": 92.025956,
+      "cpa": 1.0217201872915074
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman Online-Global",
+      "cost": 85.045251,
+      "conv": 95.182953,
+      "cpa": 0.8934924618276971
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman Testing-Global",
+      "cost": 84.601962,
+      "conv": 56.066326,
+      "cpa": 1.508962117474935
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "name": "Postman-ESP",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Doc-Global",
+      "name": "Doc-Global",
+      "cost": 441.014147,
+      "conv": 284.558658,
+      "cpa": 1.5498180589535955
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "name": "Postman-PT",
+      "cost": 1.14,
+      "conv": 2.0,
+      "cpa": 0.57
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman Alternative-Global",
+      "cost": 1301.319993,
+      "conv": 855.96937,
+      "cpa": 1.5202880367086034
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "name": "Testing-KR",
+      "cost": 10.742383,
+      "conv": 5.0,
+      "cpa": 2.1484766
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "name": "API Tool-Global",
+      "cost": 83.709682,
+      "conv": 113.493213,
+      "cpa": 0.7375743428816312
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "name": "Apidog-ESP",
+      "cost": 3.044453,
+      "conv": 13.977727,
+      "cpa": 0.21780744465820515
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "name": "Doc-VN",
+      "cost": 6.354238,
+      "conv": 5.0,
+      "cpa": 1.2708476
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "name": "CP-KR",
+      "cost": 0.08,
+      "conv": 6.829571,
+      "cpa": 0.011713766501585532
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "name": "Postman-VN",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Testing-Global",
+      "name": "Testing-CP-Global",
+      "cost": 1.240061,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "name": "CP-ID",
+      "cost": 8.450816,
+      "conv": 21.773811,
+      "cpa": 0.3881183684381205
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "name": "CP-PT",
+      "cost": 0.691142,
+      "conv": 4.910438,
+      "cpa": 0.14074956246265607
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "name": "API Tool-ESP",
+      "cost": 55.954818,
+      "conv": 34.435824,
+      "cpa": 1.6249013817703333
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "name": "Postman-ID",
+      "cost": 24.824329,
+      "conv": 16.16311,
+      "cpa": 1.5358633951015614
+    },
+    {
+      "campaign": "Google-Sa-Debug-Global",
+      "name": "Debug-Global",
+      "cost": 56.923424,
+      "conv": 66.269917,
+      "cpa": 0.8589632608110855
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "name": "Postman-KR",
+      "cost": 13.760575,
+      "conv": 4.0,
+      "cpa": 3.44014375
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "name": "Doc-PT",
+      "cost": 16.141135,
+      "conv": 2.0,
+      "cpa": 8.0705675
+    },
+    {
+      "campaign": "Google-Sa-Design-Global",
+      "name": "Design-Global",
+      "cost": 51.534474,
+      "conv": 47.0,
+      "cpa": 1.096478170212766
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "name": "design-ID",
+      "cost": 1.03,
+      "conv": 2.0,
+      "cpa": 0.515
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "name": "design-PT",
+      "cost": 13.53342,
+      "conv": 10.717042,
+      "cpa": 1.26279434194622
+    },
+    {
+      "campaign": "Google-Sa-Doc-Global",
+      "name": "api-document-Global",
+      "cost": 11.743253,
+      "conv": 8.0,
+      "cpa": 1.467906625
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "name": "Doc-KR",
+      "cost": 1.747131,
+      "conv": 1.0,
+      "cpa": 1.747131
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "name": "Doc-ESP",
+      "cost": 46.14694,
+      "conv": 36.801241,
+      "cpa": 1.2539506480229838
+    },
+    {
+      "campaign": "Google-Sa-Stoplight-Global",
+      "name": "Stoplight-Features--Global",
+      "cost": 13.361912,
+      "conv": 6.5,
+      "cpa": 2.055678769230769
+    },
+    {
+      "campaign": "Google-Sa-Stoplight-Global",
+      "name": "Stoplight--Global",
+      "cost": 258.170227,
+      "conv": 198.859863,
+      "cpa": 1.2982520610506507
+    },
+    {
+      "campaign": "Google-Sa-Insomnia-Global",
+      "name": "Insomnia Download- Global",
+      "cost": 43.046776,
+      "conv": 32.499947,
+      "cpa": 1.3245183445991466
+    },
+    {
+      "campaign": "Google-Sa-Readme-Global",
+      "name": "Readme-Global",
+      "cost": 15.717644,
+      "conv": 8.0,
+      "cpa": 1.9647055
+    },
+    {
+      "campaign": "Google-Sa-Insomnia-Global",
+      "name": "Insomnia api-Global",
+      "cost": 13.304231,
+      "conv": 16.003556,
+      "cpa": 0.8313296744798468
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "name": "stoplight-KR",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "name": "CP-VN",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "name": "Swagger-ID",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "name": "stoplight-VN",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "name": "Stoplight-ESP",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "name": "Test-ID",
+      "cost": 11.951627,
+      "conv": 13.997178,
+      "cpa": 0.853859756588078
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman on-prem - Global",
+      "cost": 14.341168,
+      "conv": 8.0,
+      "cpa": 1.792646
+    },
+    {
+      "campaign": "Google-Sa-Insomnia-Global",
+      "name": "insomnia alternative",
+      "cost": 41.805268,
+      "conv": 27.469202,
+      "cpa": 1.5218959764466402
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "name": "Hoppscotch--Global",
+      "cost": 989.299511,
+      "conv": 885.171196,
+      "cpa": 1.1176363572047368
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "name": "Hoppscotch-Team-Workflow-Global",
+      "cost": 0.03078,
+      "conv": 7.698535,
+      "cpa": 0.003998163286911081
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "name": "Hoppscotch-Protocols-Global",
+      "cost": 18.486611,
+      "conv": 19.5,
+      "cpa": 0.9480313333333333
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "name": "Hoppscotch-alternative-Global",
+      "cost": 0.51,
+      "conv": 1.0,
+      "cpa": 0.51
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "name": "Hoppscotch-Features--Global",
+      "cost": 31.915016,
+      "conv": 19.499999,
+      "cpa": 1.6366675711111576
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman Migration-Global",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-TR",
+      "name": "Postman-ESP",
+      "cost": 2.456764,
+      "conv": 2.0,
+      "cpa": 1.228382
+    },
+    {
+      "campaign": "Google-Sa-CP-TR",
+      "name": "Apidog-ESP",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "name": "Swagger-PT",
+      "cost": 2.778363,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "name": "Hoppscotch-ESP",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "name": "Postman-DSA",
+      "cost": 665.576723,
+      "conv": 315.039121,
+      "cpa": 2.112679596385745
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Global",
+      "name": "Swagger Docs-Global",
+      "cost": 6.522011,
+      "conv": 6.0,
+      "cpa": 1.0870018333333333
+    },
+    {
+      "campaign": "Google-Sa-Stoplight-Global",
+      "name": "Stoplight Alternative--Global",
+      "cost": 100.745884,
+      "conv": 78.660746,
+      "cpa": 1.2807644107519651
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "name": "API Client",
+      "cost": 198.03927,
+      "conv": 210.74996,
+      "cpa": 0.9396882922302808
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "name": "API Code-Global",
+      "cost": 23.796336,
+      "conv": 29.996995,
+      "cpa": 0.7932906612812384
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "name": "API Naming Assistant",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "name": "RapidAPI-ESP",
+      "cost": 60.740502,
+      "conv": 25.0,
+      "cpa": 2.42962008
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman Pricing-Global",
+      "cost": 0.73,
+      "conv": 1.0,
+      "cpa": 0.73
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Global",
+      "name": "Swagger--Global",
+      "cost": 119.685873,
+      "conv": 88.517017,
+      "cpa": 1.3521227562379334
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "name": "API lifecycle management",
+      "cost": 23.381479,
+      "conv": 15.995992,
+      "cpa": 1.4617085955031734
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "name": "API-DSA",
+      "cost": 133.824796,
+      "conv": 116.03211,
+      "cpa": 1.1533427772708778
+    },
+    {
+      "campaign": "Google-UT-KOL-Arabic",
+      "name": "UT-API Tool-Arabic",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-UT-KOL-Portuguese",
+      "name": "UT-API Tool-Portuguese",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Global",
+      "name": "Swagger alternative-Global",
+      "cost": 88.251745,
+      "conv": 54.571635,
+      "cpa": 1.6171724559837726
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman Enterprise-Global",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-TW",
+      "name": "CP-TW",
+      "cost": 0.95,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-TW",
+      "name": "Postman-TW",
+      "cost": 6.619118,
+      "conv": 3.0,
+      "cpa": 2.2063726666666668
+    },
+    {
+      "campaign": "Google-Sa-Annual Planning & New Trends-26",
+      "name": "Annual Best Tools-26",
+      "cost": 0.3,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Annual Planning & New Trends-26",
+      "name": "Future Trends-26",
+      "cost": 94.624551,
+      "conv": 85.007008,
+      "cpa": 1.1131382367910185
+    },
+    {
+      "campaign": "Google-Sa-Annual Planning & New Trends-26",
+      "name": "Automation & Strategy -26",
+      "cost": 2.518079,
+      "conv": 2.49811,
+      "cpa": 1.0079936431942549
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "name": "Stoplight-ID",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-CP-FR",
+      "name": "Apidog-ESP",
+      "cost": 0.03,
+      "conv": 3.0,
+      "cpa": 0.01
+    },
+    {
+      "campaign": "Google-Sa-CP-FR",
+      "name": "Postman-ESP",
+      "cost": 3.716074,
+      "conv": 1.0,
+      "cpa": 3.716074
+    },
+    {
+      "campaign": "Google-Sa-CP-FR",
+      "name": "API Tool-ESP",
+      "cost": 23.853876,
+      "conv": 19.988255,
+      "cpa": 1.1933946209911772
+    },
+    {
+      "campaign": "Google-Sa-Scalar-Global",
+      "name": "Scalar-Global",
+      "cost": 380.060722,
+      "conv": 293.194479,
+      "cpa": 1.2962751662182561
+    },
+    {
+      "campaign": "Google-UT-KOL-English",
+      "name": "UT-API Tool-English",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "name": "Ai Test Case-Global",
+      "cost": 188.953711,
+      "conv": 160.920064,
+      "cpa": 1.1742085250475665
+    },
+    {
+      "campaign": "Google-Sa-Mintlify-Global",
+      "name": "Mintlify--Global",
+      "cost": 681.583742,
+      "conv": 457.434112,
+      "cpa": 1.4900151171935336
+    },
+    {
+      "campaign": "Google-Sa-Jmeter-Global",
+      "name": "API-Performance-Ease-Global",
+      "cost": 240.098159,
+      "conv": 191.424703,
+      "cpa": 1.254269460718453
+    },
+    {
+      "campaign": "Google-Sa-RapidAPI-Global",
+      "name": "RapidAPI--Global",
+      "cost": 35.976373,
+      "conv": 41.680453,
+      "cpa": 0.8631473607064684
+    },
+    {
+      "campaign": "Google-Sa-Insomnia-Global",
+      "name": "Insomnia-Features--Global",
+      "cost": 440.952788,
+      "conv": 300.299976,
+      "cpa": 1.4683743697668492
+    },
+    {
+      "campaign": "Google-Sa-Testing-Global",
+      "name": "Automated api testing-Global",
+      "cost": 12.513142,
+      "conv": 13.0,
+      "cpa": 0.9625493846153846
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "name": "OpenAPI Linter",
+      "cost": 32.149709,
+      "conv": 31.896929,
+      "cpa": 1.0079249008580105
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "name": "AI JSON Schema Generator",
+      "cost": 182.557265,
+      "conv": 115.813882,
+      "cpa": 1.576298642679122
+    },
+    {
+      "campaign": "Google-Sa-API Editor-Global",
+      "name": "No-Code & Builder-Global",
+      "cost": 10.051265,
+      "conv": 3.951764,
+      "cpa": 2.543488173888927
+    },
+    {
+      "campaign": "Google-Sa-API Editor-Global",
+      "name": "Online & Team--Global",
+      "cost": 90.049244,
+      "conv": 84.255611,
+      "cpa": 1.068762577723162
+    },
+    {
+      "campaign": "Google-Sa-API Editor-Global",
+      "name": "General Visual Editor--Global",
+      "cost": 27.746655,
+      "conv": 26.485984,
+      "cpa": 1.0475976652406043
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "name": "API Collaboration",
+      "cost": 54.399025,
+      "conv": 60.273018,
+      "cpa": 0.9025435726480463
+    },
+    {
+      "campaign": "Google-Sa-Postman-Listicle-Global",
+      "name": "Top_10_Postman_Alternatives",
+      "cost": 13.940559,
+      "conv": 4.0,
+      "cpa": 3.48513975
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "name": "Enterprise ROI & Migration",
+      "cost": 85.215598,
+      "conv": 23.3416,
+      "cpa": 3.6508036295712376
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman Offline-Global",
+      "cost": 35.969694,
+      "conv": 38.5,
+      "cpa": 0.9342777662337661
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+      "name": "Advanced Debugging",
+      "cost": 26.804481,
+      "conv": 15.641123,
+      "cpa": 1.7137184459197718
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "name": "Security, SSO & RBAC",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Fern-Global",
+      "name": "Fern-Global",
+      "cost": 45.347309,
+      "conv": 38.5,
+      "cpa": 1.177852181818182
+    },
+    {
+      "campaign": "Google-Sa-Jmeter-Global",
+      "name": "Jmeter---Global",
+      "cost": 235.809725,
+      "conv": 212.564201,
+      "cpa": 1.1093576617823806
+    },
+    {
+      "campaign": "Google-Sa-The \"Great Migration\"-26",
+      "name": "Functional Pain Points-26",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-The \"Great Migration\"-26",
+      "name": "Price Sensitive-26",
+      "cost": 11.189975,
+      "conv": 10.997178,
+      "cpa": 1.0175314976260275
+    },
+    {
+      "campaign": "Google-Sa-The \"Great Migration\"-26",
+      "name": "Migration Action-26",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-The \"Great Migration\"-26",
+      "name": "Direct Alternatives-26",
+      "cost": 1.7997,
+      "conv": 1.0,
+      "cpa": 1.7997
+    },
+    {
+      "campaign": "Google-Sa-Bruno-Global",
+      "name": "Bruno--Global",
+      "cost": 41.082237,
+      "conv": 18.013089,
+      "cpa": 2.280688059665946
+    },
+    {
+      "campaign": "Google-Sa-Design-Global",
+      "name": "API Design-First-Global",
+      "cost": 42.484615,
+      "conv": 32.333333,
+      "cpa": 1.3139571784944037
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman-Performance-Pain-Global",
+      "cost": 125.026987,
+      "conv": 76.70622,
+      "cpa": 1.6299458766186106
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "name": "rapidapi-PT",
+      "cost": 2.153112,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Testsigma-Global",
+      "name": "Testsigma--Global",
+      "cost": 3.389034,
+      "conv": 1.002822,
+      "cpa": 3.379497059298659
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "name": "Scratchpad_Offline_Alternative",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "name": "High_Performance_API_Client",
+      "cost": 0.26,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "name": "Modern_API_Tech_gRPC_MCP",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "name": "OpenAPI Editor-Global",
+      "cost": 68.391182,
+      "conv": 53.919989,
+      "cpa": 1.2683827142472155
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "name": "OpenAPI-Visual-Editor--Global",
+      "cost": 13.544548,
+      "conv": 8.799237,
+      "cpa": 1.5392866449670581
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "name": "Openapi--Global",
+      "cost": 201.309406,
+      "conv": 187.527202,
+      "cpa": 1.0734944256247156
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "name": "OpenAPI-Team-Editor-Global",
+      "cost": 1.137884,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "name": "Versioning & Governance",
+      "cost": 0.226926,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Redocly-Global",
+      "name": "Redocly Alternatives- Global",
+      "cost": 21.592245,
+      "conv": 12.660743,
+      "cpa": 1.7054484875018787
+    },
+    {
+      "campaign": "Google-Sa-Redocly-Global",
+      "name": "Redocly Documentation-Global",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Redocly-Global",
+      "name": "Redocly for Engineering-Global",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Unified-API-Global",
+      "name": "Unified Platform",
+      "cost": 177.269435,
+      "conv": 94.450836,
+      "cpa": 1.8768434723012932
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "name": "Postman_1_User_Limit_Combat",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "name": "Postman_9_Solo_AI_Limit",
+      "cost": 26.259324,
+      "conv": 30.0,
+      "cpa": 0.8753107999999999
+    },
+    {
+      "campaign": "Google-Sa-CP-US",
+      "name": "Apidog-US",
+      "cost": 46.356207,
+      "conv": 15.563672,
+      "cpa": 2.9784877887429135
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "name": "Postman-alternative-DSA",
+      "cost": 26.262379,
+      "conv": 5.0,
+      "cpa": 5.2524758
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman-Alt-Value-Global",
+      "cost": 23.06322,
+      "conv": 25.0,
+      "cpa": 0.9225288
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "name": "Postman_Price_Hike_Interception",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "name": "Solutions-DSA",
+      "cost": 122.463898,
+      "conv": 96.805177,
+      "cpa": 1.2650552562906836
+    },
+    {
+      "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+      "name": "AI Infrastructure (MCP)",
+      "cost": 274.325326,
+      "conv": 192.301888,
+      "cpa": 1.4265347514424822
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "name": "JSON Schema Tooling",
+      "cost": 0.292042,
+      "conv": 1.0,
+      "cpa": 0.292042
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Unified-API-Global",
+      "name": "Multi-Format Import",
+      "cost": 43.622753,
+      "conv": 31.43091,
+      "cpa": 1.3878934144763866
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "name": "Smart Mock Servers",
+      "cost": 191.527583,
+      "conv": 142.0,
+      "cpa": 1.3487857957746479
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "name": "Competitor-Comparison-DSA",
+      "cost": 34.99768,
+      "conv": 18.50113,
+      "cpa": 1.8916509424018968
+    },
+    {
+      "campaign": "Google-Sa-Apidog-vs-Postman-Global",
+      "name": "Apidog-vs-Postman-Main-Global",
+      "cost": 172.252207,
+      "conv": 97.995403,
+      "cpa": 1.757758034833532
+    },
+    {
+      "campaign": "Google-Sa-Jmeter-Global",
+      "name": "JMeter-Replacement-Global",
+      "cost": 197.226502,
+      "conv": 168.864996,
+      "cpa": 1.167953730327865
+    },
+    {
+      "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+      "name": "MCP & AI Agents",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+      "name": "SSE & LLM Debugging",
+      "cost": 17.717443,
+      "conv": 12.0,
+      "cpa": 1.4764535833333332
+    },
+    {
+      "campaign": "Google-Sa-Bump.sh-Global",
+      "name": "Bump.sh--Global",
+      "cost": 149.060064,
+      "conv": 64.439787,
+      "cpa": 2.313168167362192
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "name": "Enterprise API Management",
+      "cost": 15.959169,
+      "conv": 4.474756,
+      "cpa": 3.5664892119257448
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "name": "Postman_Data_Migration_Export",
+      "cost": 2.389713,
+      "conv": 4.0,
+      "cpa": 0.59742825
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "name": "On-Premises & Data Sovereignty",
+      "cost": 2.469999,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+      "name": "Webhook Testing",
+      "cost": 19.296172,
+      "conv": 9.0,
+      "cpa": 2.144019111111111
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+      "name": "Advanced Mocking",
+      "cost": 13.262691,
+      "conv": 1.0,
+      "cpa": 13.262691
+    },
+    {
+      "campaign": "Google-Sa-SwaggerHub-Global",
+      "name": "SwaggerHub_Substitute",
+      "cost": 1.599419,
+      "conv": 1.454818,
+      "cpa": 1.0993945634436748
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+      "name": "Unified Platform",
+      "cost": 0.0,
+      "conv": 0.0,
+      "cpa": 0
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "name": "Postman_Unlimited_Testing_Run",
+      "cost": 413.942845,
+      "conv": 256.937008,
+      "cpa": 1.61106742941445
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "name": "Postman-vs-Apidog-Global",
+      "cost": 20.191979,
+      "conv": 22.478523,
+      "cpa": 0.8982787258753612
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "name": "Design-First Workflow",
+      "cost": 91.529612,
+      "conv": 74.711629,
+      "cpa": 1.225105291172275
+    }
+  ],
+  "ads": [
+    {
+      "campaign": "Google-Sa-DSA-J",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-J",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-J",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-JP",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-JP",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-JP",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-us",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-us",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Testing-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Testing-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-US",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-US",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-JP",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-JP",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Mock-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Mock-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Mock-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-UT-CP-AR",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-UT-CP-AR",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Doc-Global",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-Doc-Global",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-Doc-Global",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-AR",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-AR",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-AR",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-AR",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ar",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ar",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Ranking-Global",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-PT",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-PT",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-PT",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_TH",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_TH",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "AVERAGE",
+      "approval": "DISAPPROVED"
+    },
+    {
+      "campaign": "Google_Sa_TH",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Doc-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Doc-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Doc-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ar",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ar",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "PENDING",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "PENDING",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "PENDING",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_TH",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Testing-Global",
+      "strength": "POOR",
+      "approval": "DISAPPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ar",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ar",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-DE",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-DE",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DeepSeek-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DeepSeek-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Debug-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Debug-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Debug-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-US",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_DSA_ESP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_DSA_ESP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_DSA_ESP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Design-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Design-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Design-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_TH",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_TH",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Doc-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-KR",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-KR",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Stoplight-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Stoplight-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Stoplight-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Stoplight-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Stoplight-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Insomnia-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Insomnia-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Readme-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Readme-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-Readme-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-CP-DE",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-DE",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-VN",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-VN",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Insomnia-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Postman-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-KR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-VN",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-AR",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-AR",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-JP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-JP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-JP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-DE",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-DE",
+      "strength": "EXCELLENT",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Insomnia-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Insomnia-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Hoppscotch-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_DSA_ESP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_DSA_ESP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-Global",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-TR",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-CP-TR",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-CP-TR",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-CP-TR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-TR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-TR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Global",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-PT",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-PT",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_DSA_FR",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_DSA_FR",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-VN",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-VN",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-VN",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-VN",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-ID",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-ID",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Stoplight-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Stoplight-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-UT-Apidog",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-AR",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-AR",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-AR",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-AR",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-AR",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-AR",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_DSA_FR",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_DSA_FR",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ESP",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_DSA_ESP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_DSA_ESP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google_Sa_DSA_ESP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-ID",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-ID",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-UT-KOL-Arabic",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-UT-KOL-Portuguese",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-JP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA-JP",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-TW",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-TW",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-TW",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-TW",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-TW",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Annual Planning & New Trends-26",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Annual Planning & New Trends-26",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Annual Planning & New Trends-26",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Annual Planning & New Trends-26",
+      "strength": "POOR",
+      "approval": "DISAPPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Annual Planning & New Trends-26",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Annual Planning & New Trends-26",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "PENDING",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-ID",
+      "strength": "PENDING",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-FR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-FR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-FR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-FR",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-CP-FR",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-CP-FR",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-CP-FR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-FR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-FR",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Scalar-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Scalar-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-UT-Function",
+      "strength": "GOOD",
+      "approval": "DISAPPROVED"
+    },
+    {
+      "campaign": "Google-UT-KOL-English",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Mintlify-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Mintlify-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Mintlify-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-UT-Apidog",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Jmeter-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-RapidAPI-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-RapidAPI-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-RapidAPI-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-Insomnia-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Insomnia-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Insomnia-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-Testing-Global",
+      "strength": "POOR",
+      "approval": "DISAPPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Testing-Global",
+      "strength": "AVERAGE",
+      "approval": "DISAPPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-API Editor-Global",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-API Editor-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-API Editor-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-API Editor-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-API Editor-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-API Editor-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Function-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Expansion",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Expansion",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Fern-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Fern-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Fern-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Jmeter-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Jmeter-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Jmeter-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-The \"Great Migration\"-26",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Bruno-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Bruno-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Bruno-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Design-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Design-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-PT",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Testsigma-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Testsigma-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Testsigma-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Openapi-Global",
+      "strength": "POOR",
+      "approval": "APPROVED_LIMITED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Document360-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Redocly-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Redocly-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Redocly-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Redocly-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Redocly-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Redocly-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-Collaboration-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-Collaboration-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Gitbook-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Unified-API-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Unified-API-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Unified-API-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-Collaboration-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-US",
+      "strength": "PENDING",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-US",
+      "strength": "PENDING",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-CP-US",
+      "strength": "PENDING",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Expansion",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Document360-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Gitbook-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Gitbook-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Document360-Global",
+      "strength": "GOOD",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Swagger-Expansion",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Unified-API-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Unified-API-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Unified-API-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-DSA",
+      "strength": "UNSPECIFIED",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Jmeter-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-cp-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-cp-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-cp-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-AI-LLM-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Bump.sh-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Bump.sh-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Bump.sh-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Enterprise-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-SwaggerHub-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-SwaggerHub-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-Multi-Protocol-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Migration-Global",
+      "strength": "AVERAGE",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Postman-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    },
+    {
+      "campaign": "Google-Sa-Solutions-API-First-Global",
+      "strength": "POOR",
+      "approval": "APPROVED"
+    }
+  ]
+}

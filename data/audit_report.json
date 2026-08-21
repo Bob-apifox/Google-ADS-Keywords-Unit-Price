@@ -1,0 +1,1263 @@
+{
+  "Google-Sa-CP-JP": {
+    "budget": 20.0,
+    "status": "ENABLED",
+    "ad_groups": {
+      "Postman-JP": {
+        "cpa": 1.5,
+        "ads": [
+          {
+            "id": 748729078441,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Postmanからの移行が無料",
+              "Postmanより高機能で無料",
+              "Postmanより動作がサクサク"
+            ]
+          },
+          {
+            "id": 748813698422,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Apidog: {Keyword:Postman 代替}",
+              "コード不要の自動テスト機能",
+              "Postmanより高機能で無料"
+            ]
+          },
+          {
+            "id": 818559004233,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Postmanの代替ツール Apidog",
+              "総合API開発プラットフォーム",
+              "無料APIテスト＆モック"
+            ]
+          },
+          {
+            "id": 818560298526,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postmanの代替ツール Apidog",
+              "総合API開発プラットフォーム",
+              "無料APIテスト＆モック"
+            ]
+          },
+          {
+            "id": 818560298529,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postmanの代替ツール Apidog",
+              "総合API開発プラットフォーム",
+              "無料APIテスト＆モック"
+            ]
+          },
+          {
+            "id": 818560298532,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postmanの代替ツール Apidog",
+              "総合API開発プラットフォーム",
+              "無料APIテスト＆モック"
+            ]
+          }
+        ],
+        "keywords": [
+          "Postman ダウンロード",
+          "postman 中文",
+          "postman とは",
+          "Postman 使い方",
+          "Postman 代替",
+          "Postman チュートリアル",
+          "Postman APIテスト",
+          "Postman 日本語"
+        ]
+      }
+    },
+    "targets": [
+      "Japan (JP)"
+    ]
+  },
+  "Google-Sa-CP-ar": {
+    "budget": 20.0,
+    "status": "PAUSED",
+    "ad_groups": {
+      "Apidog-AR": {
+        "cpa": 2.38,
+        "ads": [
+          {
+            "id": 730393570927,
+            "status": "ENABLED",
+            "approval": "APPROVED",
+            "headlines": [
+              "{Keyword:Apidog تحميل}: أداة API الشاملة",
+              "{Keyword:Apidog} - حل API الكامل",
+              "{Keyword:Apidog}: منصة API المتكاملة"
+            ]
+          },
+          {
+            "id": 730394425342,
+            "status": "ENABLED",
+            "approval": "APPROVED",
+            "headlines": [
+              "{Keyword:Apidog}: أداة API الشاملة",
+              "{Keyword:Apidog تحميل}: -حل API المتكامل",
+              "Apidog: تصميم API بسرعة"
+            ]
+          }
+        ],
+        "keywords": [
+          "Apidog API",
+          "Apidog تحميل",
+          "Apidog تطبيق",
+          "Apidog تطوير",
+          "Apidog اختبار",
+          "Apidog توثيق",
+          "Apidog واجهات برمجة"
+        ]
+      },
+      "Postman-AR": {
+        "cpa": 2.38,
+        "ads": [
+          {
+            "id": 736745691058,
+            "status": "ENABLED",
+            "approval": "APPROVED",
+            "headlines": [
+              "تعاون فريق Postman",
+              "ترقية إدارة API Postman",
+              "أداة API متكاملة"
+            ]
+          },
+          {
+            "id": 736827986870,
+            "status": "ENABLED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog يتفوق على Postman",
+              "النسخة النهائية من Postman",
+              "Apidog أقوى من Postman"
+            ]
+          },
+          {
+            "id": 818559004227,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Best Postman Alternative 2026",
+              "Apidog: All-in-One API Tool",
+              "Free API Testing & Mocking"
+            ]
+          }
+        ],
+        "keywords": [
+          "postman",
+          "بوستمان",
+          "تنزيل postman",
+          "أداة بوستمان",
+          "تنزيل بوستمان",
+          "بوستمان للـ",
+          "شرح بوستمان"
+        ]
+      },
+      "Testing-AR": {
+        "cpa": 2.38,
+        "ads": [
+          {
+            "id": 734834332737,
+            "status": "ENABLED",
+            "approval": "APPROVED",
+            "headlines": [
+              "اختبار API التلقائي",
+              "Apidog اختبار ذكي",
+              "Apidog اختبار API بنقرة"
+            ]
+          },
+          {
+            "id": 734871522703,
+            "status": "ENABLED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog {Keyword:برامج اختبار API}",
+              "التحسين الذكي لاختبار API",
+              "تحسين اختبار API بنقرة"
+            ]
+          }
+        ],
+        "keywords": [
+          "اختبار API",
+          "أدوات اختبار API",
+          "كيفية اختبار API",
+          "اختبار API التلقائي",
+          "برامج اختبار API",
+          "دليل اختبار API",
+          "اختبار وظيفة API",
+          "اختبار أداء API"
+        ]
+      }
+    },
+    "targets": [
+      "Algeria (DZ)",
+      "Bahrain (BH)",
+      "China (CN)",
+      "Palestine (PS)",
+      "Iraq (IQ)",
+      "Jordan (JO)",
+      "Kuwait (KW)",
+      "Lebanon (LB)",
+      "Libya (LY)",
+      "Mauritania (MR)",
+      "Morocco (MA)",
+      "Oman (OM)",
+      "Qatar (QA)",
+      "Saudi Arabia (SA)",
+      "United Arab Emirates (AE)",
+      "Tunisia (TN)",
+      "Egypt (EG)"
+    ]
+  },
+  "Google-Sa-CP-PT": {
+    "budget": 20.0,
+    "status": "ENABLED",
+    "ad_groups": {
+      "Postman-PT": {
+        "cpa": 1.5,
+        "ads": [
+          {
+            "id": 734545187961,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Mais Poderoso que Postman",
+              "Importe do Postman",
+              "Alternativa ao Postman"
+            ]
+          },
+          {
+            "id": 748111473343,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Colaboração em Tempo Real",
+              "Alternativa ao Postman",
+              "Apidog: {Keyword:postman online}"
+            ]
+          },
+          {
+            "id": 804389290304,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 804389792072,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 811409633688,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Mais Poderoso que API Client",
+              "Importe do API Client",
+              "Alternativa ao API Client"
+            ]
+          },
+          {
+            "id": 811409906790,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Mais Poderoso que API Client",
+              "Importe do API Client",
+              "Alternativa ao API Client"
+            ]
+          },
+          {
+            "id": 811448325793,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Tired of Postman Cloud Sync?",
+              "Expensive Postman Pricing?",
+              "1-Click Postman Import"
+            ]
+          },
+          {
+            "id": 818559004230,
+            "status": "PAUSED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternativa ao Postman",
+              "Plataforma de API Tudo-em-Um",
+              "Testar API Online Grátis"
+            ]
+          },
+          {
+            "id": 818560298388,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternativa ao Postman",
+              "Plataforma de API Tudo-em-Um",
+              "Testar API Online Grátis"
+            ]
+          },
+          {
+            "id": 818560298391,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternativa ao Postman",
+              "Plataforma de API Tudo-em-Um",
+              "Testar API Online Grátis"
+            ]
+          },
+          {
+            "id": 818560298394,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternativa ao Postman",
+              "Plataforma de API Tudo-em-Um",
+              "Testar API Online Grátis"
+            ]
+          }
+        ],
+        "keywords": [
+          "get postman",
+          "posman",
+          "postman testar api"
+        ]
+      }
+    },
+    "targets": [
+      "Brazil (BR)",
+      "Portugal (PT)"
+    ]
+  },
+  "Google-Sa-CP-KR": {
+    "budget": 20.0,
+    "status": "ENABLED",
+    "ad_groups": {
+      "Postman-KR": {
+        "cpa": 1.5,
+        "ads": [
+          {
+            "id": 737220826950,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Apidog, Postman 넘어서기",
+              "Apidog, Postman보다 더 강력",
+              "Apidog 지능형 API 도구"
+            ]
+          },
+          {
+            "id": 737335490762,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Apidog, Postman 넘어서기",
+              "Apidog, Postman보다 더 강력",
+              "Apidog 초고속 API 도구"
+            ]
+          },
+          {
+            "id": 804312029749,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 804389383886,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 804389757080,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 811448373307,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Tired of Postman Cloud Sync?",
+              "Expensive Postman Pricing?",
+              "1-Click Postman Import"
+            ]
+          },
+          {
+            "id": 818560298544,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postman 최고의 대체툴 Apidog",
+              "올인원 API 개발 플랫폼",
+              "무료 API 테스트 및 목서버"
+            ]
+          },
+          {
+            "id": 818560298547,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postman 최고의 대체툴 Apidog",
+              "올인원 API 개발 플랫폼",
+              "무료 API 테스트 및 목서버"
+            ]
+          },
+          {
+            "id": 818560298550,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postman 최고의 대체툴 Apidog",
+              "올인원 API 개발 플랫폼",
+              "무료 API 테스트 및 목서버"
+            ]
+          }
+        ],
+        "keywords": [
+          "postman 사용법",
+          "Postman API 테스트",
+          "Postman 설치",
+          "Postman 환경 설정"
+        ]
+      }
+    },
+    "targets": [
+      "South Korea (KR)"
+    ]
+  },
+  "Google-Sa-CP-DE": {
+    "budget": 20.0,
+    "status": "ENABLED",
+    "ad_groups": {
+      "Postman-DE": {
+        "cpa": 1.5,
+        "ads": [
+          {
+            "id": 741539989813,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Apidog besser als Postman",
+              "Apidog: {Keyword:Alternative zu Postman}",
+              "Postman: Besser managen"
+            ]
+          },
+          {
+            "id": 741622310864,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Apidog besser als Postman",
+              "Apidog: {Keyword:Alternative zu Postman}",
+              "Postman schneller"
+            ]
+          },
+          {
+            "id": 818559004236,
+            "status": "PAUSED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postman Alternative 2026",
+              "All-in-One API Platform",
+              "Kostenloses API Testing"
+            ]
+          },
+          {
+            "id": 818560298553,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postman Alternative 2026",
+              "All-in-One API Platform",
+              "Kostenloses API Testing"
+            ]
+          },
+          {
+            "id": 818560298556,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postman Alternative 2026",
+              "All-in-One API Platform",
+              "Kostenloses API Testing"
+            ]
+          },
+          {
+            "id": 818560298559,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postman Alternative 2026",
+              "All-in-One API Platform",
+              "Kostenloses API Testing"
+            ]
+          }
+        ],
+        "keywords": [
+          "Postman",
+          "Postman Download",
+          "Postman Tutorial",
+          "Alternative zu Postman",
+          "API Test mit Postman",
+          "Postman für Anfänger",
+          "Postman Deutsch"
+        ]
+      }
+    },
+    "targets": [
+      "Austria (AT)",
+      "Germany (DE)",
+      "Switzerland (CH)"
+    ]
+  },
+  "Google-Sa-CP-VN": {
+    "budget": 20.0,
+    "status": "ENABLED",
+    "ad_groups": {
+      "Postman-VN": {
+        "cpa": 1.5,
+        "ads": [
+          {
+            "id": 741529424803,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Apidog: {Keyword:Postman}",
+              "Dễ Dùng Hơn Postman",
+              "Mạnh Mẽ Hơn Postman"
+            ]
+          },
+          {
+            "id": 741613285628,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Apidog: {Keyword:Postman}",
+              "Apidog: Nền Tảng API",
+              "Thay Thế Postman"
+            ]
+          },
+          {
+            "id": 804312021526,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 804389763836,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 811409912574,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: {Keyword:API Client}",
+              "Dễ Dùng Hơn API Client",
+              "Mạnh Mẽ Hơn API Client"
+            ]
+          },
+          {
+            "id": 811437533914,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: {Keyword:API Client}",
+              "Dễ Dùng Hơn API Client",
+              "Mạnh Mẽ Hơn API Client"
+            ]
+          },
+          {
+            "id": 811448399728,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Tired of Postman Cloud Sync?",
+              "Expensive Postman Pricing?",
+              "1-Click Postman Import"
+            ]
+          },
+          {
+            "id": 818560298397,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Công Cụ Thay Thế Postman",
+              "Nền Tảng API Tất-Cả-Trong-",
+              "Kiểm Thử API Miễn Phí"
+            ]
+          },
+          {
+            "id": 818560298520,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Công Cụ Thay Thế Postman",
+              "Nền Tảng API Tất-Cả-Trong-",
+              "Kiểm Thử API Miễn Phí"
+            ]
+          },
+          {
+            "id": 818560298523,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Công Cụ Thay Thế Postman",
+              "Nền Tảng API Tất-Cả-Trong-",
+              "Kiểm Thử API Miễn Phí"
+            ]
+          }
+        ],
+        "keywords": [
+          "hướng dẫn sử dụng postman",
+          "phần mềm postman",
+          "Cài đặt Postman",
+          "Test API bằng Postman"
+        ]
+      }
+    },
+    "targets": [
+      "Vietnam (VN)"
+    ]
+  },
+  "Google-Sa-CP-ID": {
+    "budget": 20.0,
+    "status": "ENABLED",
+    "ad_groups": {
+      "Postman-ID": {
+        "cpa": 1.5,
+        "ads": [
+          {
+            "id": 746778968341,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Apidog: Ganti Postman",
+              "Apidog: {Keyword:Alternatif Postman}",
+              "Apidog: Pengembangan Kolab"
+            ]
+          },
+          {
+            "id": 746863351103,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Apidog Lebih dari Postman",
+              "Apidog: {Keyword:Postman automation}",
+              "Postman Lebih Cepat"
+            ]
+          },
+          {
+            "id": 804276215442,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 804276242391,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 804389395871,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 811451103268,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Tired of Postman Cloud Sync?",
+              "Expensive Postman Pricing?",
+              "1-Click Postman Import"
+            ]
+          },
+          {
+            "id": 818560298535,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternatif Postman Terbaik",
+              "Platform API All-in-One",
+              "Pengujian API Gratis Online"
+            ]
+          },
+          {
+            "id": 818560298538,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternatif Postman Terbaik",
+              "Platform API All-in-One",
+              "Pengujian API Gratis Online"
+            ]
+          },
+          {
+            "id": 818560298541,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternatif Postman Terbaik",
+              "Platform API All-in-One",
+              "Pengujian API Gratis Online"
+            ]
+          }
+        ],
+        "keywords": [
+          "Postman tutorial",
+          "Menguji API dengan Postman",
+          "Cara test API di Postman",
+          "Alternatif Postman",
+          "Postman automation"
+        ]
+      }
+    },
+    "targets": [
+      "Indonesia (ID)"
+    ]
+  },
+  "Google-Sa-CP-FR": {
+    "budget": 20.0,
+    "status": "ENABLED",
+    "ad_groups": {
+      "Postman-FR": {
+        "cpa": 1.5,
+        "ads": [
+          {
+            "id": 774682686408,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Alternative postman : Apidog",
+              "Tests batch API avec Apidog",
+              "Automatisation tests Apidog"
+            ]
+          },
+          {
+            "id": 774812053625,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Plus puissant que Postman",
+              "Orchestration postman facile",
+              "Tests batch postman"
+            ]
+          },
+          {
+            "id": 804275967765,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 804276277104,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 804312522697,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 806402664647,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Apidog: All-in-One API Tool",
+              "Collaborative API Design",
+              "Fast & lightweight client"
+            ]
+          },
+          {
+            "id": 806423398522,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Apidog: All-in-One API Tool",
+              "Collaborative API Design",
+              "Fast & lightweight client"
+            ]
+          },
+          {
+            "id": 818559004242,
+            "status": "PAUSED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternative à Postman",
+              "Plateforme API All-in-One",
+              "Test API & Mock Gratuit"
+            ]
+          },
+          {
+            "id": 818560298589,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternative à Postman",
+              "Plateforme API All-in-One",
+              "Test API & Mock Gratuit"
+            ]
+          },
+          {
+            "id": 818560298592,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternative à Postman",
+              "Plateforme API All-in-One",
+              "Test API & Mock Gratuit"
+            ]
+          },
+          {
+            "id": 818560298595,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternative à Postman",
+              "Plateforme API All-in-One",
+              "Test API & Mock Gratuit"
+            ]
+          }
+        ],
+        "keywords": [
+          "test api avec postman",
+          "outil postman",
+          "alternatives à postman",
+          "postman tutoriel"
+        ]
+      }
+    },
+    "targets": [
+      "Belgium (BE)",
+      "Canada (CA)",
+      "France (FR)"
+    ]
+  },
+  "Google-Sa-CP-ESP-2": {
+    "budget": 20.0,
+    "status": "ENABLED",
+    "ad_groups": {
+      "Postman-ES": {
+        "cpa": 1.5,
+        "ads": [
+          {
+            "id": 775812171287,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Postman alternatifi Apidog",
+              "Toplu API testi Apidog",
+              "Otomatik test & Mock Apidog"
+            ]
+          },
+          {
+            "id": 775812176336,
+            "status": "PAUSED",
+            "approval": "APPROVED_LIMITED",
+            "headlines": [
+              "Alternative postman : Apidog",
+              "Tests batch API avec Apidog",
+              "Automatisation tests Apidog"
+            ]
+          },
+          {
+            "id": 804275960349,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 804276307806,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 804312532495,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 806402664650,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: All-in-One API Tool",
+              "Collaborative API Design",
+              "Fast & lightweight client"
+            ]
+          },
+          {
+            "id": 811410264156,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: All-in-One API Tool",
+              "Collaborative API Design",
+              "Fast & lightweight client"
+            ]
+          },
+          {
+            "id": 811420541517,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Tired of Postman Cloud Sync?",
+              "Expensive Postman Pricing?",
+              "1-Click Postman Import"
+            ]
+          },
+          {
+            "id": 818560298562,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternativas a Postman",
+              "Apidog: Mejor Alternativa",
+              "Prueba API Gratis 2026"
+            ]
+          },
+          {
+            "id": 818560298565,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternativas a Postman",
+              "Apidog: Mejor Alternativa",
+              "Prueba API Gratis 2026"
+            ]
+          },
+          {
+            "id": 818560298568,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternativas a Postman",
+              "Apidog: Mejor Alternativa",
+              "Prueba API Gratis 2026"
+            ]
+          }
+        ],
+        "keywords": [
+          "postman nedir",
+          "postman nasıl kullanılır",
+          "postman alternatifleri"
+        ]
+      }
+    },
+    "targets": [
+      "Argentina (AR)",
+      "Chile (CL)",
+      "Colombia (CO)",
+      "Mexico (MX)",
+      "Peru (PE)",
+      "Spain (ES)"
+    ]
+  },
+  "Google-Sa-CP-AR": {
+    "budget": 20.0,
+    "status": "ENABLED",
+    "ad_groups": {
+      "Postman-AR": {
+        "cpa": 1.5,
+        "ads": [
+          {
+            "id": 779189306827,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "استيراد من Postman",
+              "بديل Postman المجاني",
+              "أسرع من Postman"
+            ]
+          },
+          {
+            "id": 779189591191,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog يتفوق على Postman",
+              "أفضل بديل لـ Postman",
+              "Apidog أقوى من Postman"
+            ]
+          },
+          {
+            "id": 818559004239,
+            "status": "PAUSED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Alternativas a Postman",
+              "Apidog: Mejor Alternativa",
+              "Prueba API Gratis 2026"
+            ]
+          },
+          {
+            "id": 818560298571,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Best Postman Alternative 2026",
+              "Apidog: All-in-One API Tool",
+              "Free API Testing & Mocking"
+            ]
+          },
+          {
+            "id": 818560298574,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Best Postman Alternative 2026",
+              "Apidog: All-in-One API Tool",
+              "Free API Testing & Mocking"
+            ]
+          },
+          {
+            "id": 818560298577,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Best Postman Alternative 2026",
+              "Apidog: All-in-One API Tool",
+              "Free API Testing & Mocking"
+            ]
+          }
+        ],
+        "keywords": [
+          "postman",
+          "postman free alternative",
+          "bostman",
+          "بوستمان",
+          "postman free alternative",
+          "تنزيل postman",
+          "أداة بوستمان",
+          "تنزيل بوستمان",
+          "بوستمان للـ",
+          "شرح بوستمان",
+          "postman alternative arabic",
+          "بديل postman",
+          "postman alternative arabic",
+          "بديل postman",
+          "اختبار api مجاني",
+          "اختبار api مجاني"
+        ]
+      }
+    },
+    "targets": [
+      "Bahrain (BH)",
+      "Belarus (BY)",
+      "Palestine (PS)",
+      "Iraq (IQ)",
+      "Jordan (JO)",
+      "Kuwait (KW)",
+      "Lebanon (LB)",
+      "Libya (LY)",
+      "Mauritania (MR)",
+      "Morocco (MA)",
+      "Oman (OM)",
+      "Qatar (QA)",
+      "Saudi Arabia (SA)",
+      "United Arab Emirates (AE)",
+      "Tunisia (TN)",
+      "Egypt (EG)"
+    ]
+  },
+  "Google-Sa-CP-TW": {
+    "budget": 20.0,
+    "status": "ENABLED",
+    "ad_groups": {
+      "Postman-TW": {
+        "cpa": 1.5,
+        "ads": [
+          {
+            "id": 784098766276,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Postman強大替代",
+              "Apidog: {Keyword:Postman 安裝} alt",
+              "Apidog: API全能工具"
+            ]
+          },
+          {
+            "id": 784192200452,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: 全面 API 管理",
+              "Apidog: Postman強大替代",
+              "Apidog: {Keyword:Postman 安裝}替代"
+            ]
+          },
+          {
+            "id": 804312143884,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 804312513568,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 804312548308,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Apidog: Official Free Tool",
+              "Apidog: All-in-One API Hub",
+              "Download Official Desktop App"
+            ]
+          },
+          {
+            "id": 811420581981,
+            "status": "PAUSED",
+            "approval": "APPROVED",
+            "headlines": [
+              "Tired of Postman Cloud Sync?",
+              "Expensive Postman Pricing?",
+              "1-Click Postman Import"
+            ]
+          },
+          {
+            "id": 818560298580,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postman 最佳替代方案 Apidog",
+              "一站式 API 開發測試平台",
+              "免費 API 測試與 Mock"
+            ]
+          },
+          {
+            "id": 818560298583,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postman 最佳替代方案 Apidog",
+              "一站式 API 開發測試平台",
+              "免費 API 測試與 Mock"
+            ]
+          },
+          {
+            "id": 818560298586,
+            "status": "ENABLED",
+            "approval": "UNKNOWN",
+            "headlines": [
+              "Postman 最佳替代方案 Apidog",
+              "一站式 API 開發測試平台",
+              "免費 API 測試與 Mock"
+            ]
+          }
+        ],
+        "keywords": [
+          "Postman 安裝",
+          "Postman 使用方法",
+          "Postman 環境設定",
+          "Postman API 測試"
+        ]
+      }
+    },
+    "targets": [
+      "Taiwan (TW)"
+    ]
+  }
+}
