@@ -1,0 +1,26 @@
+Campaign,Keyword,Criterion Type
+Google-Sa-CLI-Global,terminal api tester,Negative Phrase
+Google-Sa-CLI-Global,linux,Negative Broad
+Google-Sa-CLI-Global,cmd,Negative Broad
+Google-Sa-CLI-Global,windows,Negative Broad
+Google-Sa-Doc-Global,template,Negative Phrase
+Google-Sa-Doc-Global,free,Negative Phrase
+Google-Sa-Doc-Global,example,Negative Phrase
+Google-Sa-Postman-Global,crack,Negative Phrase
+Google-Sa-Postman-Global,free,Negative Phrase
+Google-Sa-Postman-Global,tutorial,Negative Phrase
+Google-Sa-Postman-Global,course,Negative Phrase
+Google-Sa-Insomnia-Global,crack,Negative Phrase
+Google-Sa-Insomnia-Global,free,Negative Phrase
+Google-Sa-Scalar-Global,free,Negative Phrase
+Google-Sa-Readme-Global,free,Negative Phrase
+Google-Sa-Readme-Global,template,Negative Phrase
+Google-Sa-DSA-Postman-Global,free,Negative Phrase
+Google-Sa-DSA-Postman-Global,crack,Negative Phrase
+Google-Sa-Swagger-Global,free,Negative Phrase
+Google-Sa-Swagger-Global,tutorial,Negative Phrase
+Google-Sa-LLM-Benchmarking,free,Negative Phrase
+Google-Sa-MCP-Infrastructure,free,Negative Phrase
+Google-Sa-Mock-Global,free,Negative Phrase
+Google-Sa-Stoplight-Global,free,Negative Phrase
+Google-Sa-SpecFirst-Global,free,Negative Phrase
